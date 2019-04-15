@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "PROJECT_NAME": "一般检查",
+            "TaskList":[
+                {
+                    "TASK_NAME" : "身高检测",
+                },
+                {
+                    "TASK_NAME" : "体重检测",
+                }
+            ]
+        },
+        {
+            "PROJECT_NAME": "内科",
+            "TaskList":[
+                {
+                    "TASK_NAME" : "心律",
+                },
+                {
+                    "TASK_NAME" : "心音",
+                },
+                {
+                    "TASK_NAME" : "内科其他",
+                }
+            ]
+        },
+        {
+            "PROJECT_NAME": "外科",
+            "TaskList":[
+                {
+                    "TASK_NAME" : "皮肤",
+                },
+                {
+                    "TASK_NAME" : "脊柱",
+                },
+                {
+                    "TASK_NAME" : "四肢",
+                },
+                {
+                    "TASK_NAME" : "外科其他",
+                }
+            ]
+        }
+    ]
+}
